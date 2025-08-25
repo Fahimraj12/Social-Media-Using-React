@@ -1,0 +1,20 @@
+.app-container{
+    display: flex;
+}
+.content{
+    width: 100%;
+
+}
+.sidebar
+{
+    min-height: 800px;
+}
+.post-card{
+    margin: 20px 50;
+}
+.create-post{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+    
+}
