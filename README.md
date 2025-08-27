@@ -8,7 +8,7 @@ A **mini social media application** built with **React.js** and **React Router**
 
 This project demonstrates CRUD operations, routing, API integration, and basic state management.
 
----
+
 
 ## 🚀 Features
 - 📰 **View Posts** → List of 50–100 posts fetched from DummyAPI  
@@ -18,7 +18,7 @@ This project demonstrates CRUD operations, routing, API integration, and basic s
 - 🔀 **Routing** → Seamless navigation with React Router  
 - 🎨 **UI** → Clean interface with icons for like/delete  
 
----
+
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, React Router  
@@ -26,7 +26,6 @@ This project demonstrates CRUD operations, routing, API integration, and basic s
 - **API**: [DummyAPI.io](https://dummyapi.io/)  
 - **Styling**: CSS / Tailwind CSS (depending on what you used)  
 
----
 
 ## 📂 Folder Structure
 social-media-app/
