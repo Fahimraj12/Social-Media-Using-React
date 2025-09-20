@@ -29,22 +29,22 @@ This project demonstrates CRUD operations, routing, API integration, and basic s
 
 ## 📂 Folder Structure
 social-media-app/
-# │── public/
-# │ └── index.html
-# │── src/
-# │ ├── components/
-# │ │ ├── PostList.jsx
-# │ │ ├── PostItem.jsx
-# │ │ ├── CreatePost.jsx
-# │ │ └── Navbar.jsx
-# │ ├── pages/
-# │ │ ├── Home.jsx
-# │ │ └── About.jsx
-# │ ├── App.jsx
-# │ ├── index.js
-# │ └── App.css
-# │── package.json
-# └── README.md
+###### │── public/
+###### │ └── index.html
+###### │── src/
+###### │ ├── components/
+###### │ │ ├── PostList.jsx
+###### │ │ ├── PostItem.jsx
+###### │ │ ├── CreatePost.jsx
+###### │ │ └── Navbar.jsx
+###### │ ├── pages/
+###### │ │ ├── Home.jsx
+###### │ │ └── About.jsx
+###### │ ├── App.jsx
+###### │ ├── index.js
+###### │ └── App.css
+###### │── package.json
+###### └── README.md
 
 
 # React + Vite
