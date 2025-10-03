@@ -47,7 +47,7 @@ social-media-app/
 ###### └── README.md
 
 
-#Author:
+## Author:
 - Mo Fahim Raj
 
 # React + Vite
