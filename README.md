@@ -47,6 +47,9 @@ social-media-app/
 ###### └── README.md
 
 
+#Author:
+- Mo Fahim Raj
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
