@@ -48,7 +48,7 @@ social-media-app/
 
 
 ## Author:
-- Mo Fahim Raj
+**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
 
 # React + Vite
 
