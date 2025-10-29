@@ -50,8 +50,8 @@ social-media-app/
 
 - Clone the repository:
    ```bash
-  git clone https://github.com/FahimRaj12/Calculator-App-Using-React.git
-  cd calculator-app
+  git clone https://github.com/FahimRaj12/Social-Media-App-Using-React.git
+  cd social-media-app
 - Install dependencies
   ```bash
   npm install
@@ -61,8 +61,11 @@ social-media-app/
 - Open in browser
   ```bash
   http://localhost:3000
-## Author:
-**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
+
+### 👨‍💻 Author
+- [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
+- 📧 [mofahimraj@gmail.com]
+- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
 
 # React + Vite
 
