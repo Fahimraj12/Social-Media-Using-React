@@ -46,7 +46,12 @@ social-media-app/
 ###### │── package.json
 ###### └── README.md
 
+## ⚙️ Installation and Setup
 
+- Clone the repository:
+   ```bash
+  git clone https://github.com/FahimRaj12/Calculator-App-Using-React.git
+  cd calculator-app
 ## Author:
 **[Mo Fahim Raj](https://github.com/Fahimraj12)**  
 
